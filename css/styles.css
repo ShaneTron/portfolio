@@ -4,3 +4,12 @@ img.kraken-logo {
 h2 {
   color: grey;
 }
+.shane-pic {
+text-align: center;
+}
+.work-done {
+  margin: 40px;
+  border: 2px solid brown;
+  padding: 20px;
+  background-color: tan;
+}
